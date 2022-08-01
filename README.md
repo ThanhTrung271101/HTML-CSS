@@ -16,5 +16,10 @@ RESPONSIVE WEB DESIGN
 - Timeline:
     + Estimate time: 02/08/2022 - 08/08/2022 (5 days)
     + Implementation time:
-        >
-    
+        > (Update later)
+- How to start:
+    + Download source from repository: https://github.com/ThanhTrung271101/HTML-CSS
+    + Check out to target branch: practice-02
+    + Go to practice folder
+    + Install all packages
+    + Run app in localhost
