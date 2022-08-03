@@ -18,9 +18,9 @@
     - Implementation time:
         > (Update later)
 ### Team size:
-    - 1 person
+    - 1 dev
 ### How to start:
-    - Download source from repository: https://github.com/ThanhTrung271101/HTML-CSS
+    - Download source from repository: (https://github.com/ThanhTrung271101/HTML-CSS)
     - Check out to target branch: practice-02
     - Go to practice folder
     - Install all packages
